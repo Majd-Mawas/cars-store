@@ -1,1 +1,1 @@
-This website was built for a university project. I've downloaded a free template that was built with Bootstrap, but our project manager didn't accept any external libraries, just pure CSS and javascript, so my mission and that of my collaborators is to remove bootstrap classes and replace them with pure CSS, remove js libraries, and replace them with pure js.
+Read Me
